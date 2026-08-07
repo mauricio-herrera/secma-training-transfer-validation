@@ -26,11 +26,17 @@
   ],
   "keywords": [
     "virtual reality",
+    "surgical simulation",
     "laparoscopic training",
-    "6-DoF",
+    "training transfer",
+    "6-DoF motion tracking",
     "kinematic analysis",
+    "equivalence testing",
     "reproducibility"
   ],
+  "version": "1.0.0",
   "upload_type": "software",
-  "access_right": "open"
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng"
 }
