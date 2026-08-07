@@ -1,0 +1,36 @@
+{
+  "title": "SECMA training-transfer validation: reproducibility package",
+  "description": "De-identified outcome data, trial-level quality-control summaries, statistical code, and posterior-predictive design analyses supporting the SECMA Virtual Reality manuscript.",
+  "creators": [
+    {
+      "name": "Guzmán Montoto, José Ignacio"
+    },
+    {
+      "name": "Herrera-Marín, Mauricio"
+    },
+    {
+      "name": "Donoso Carrasco, Carolina Andrea"
+    },
+    {
+      "name": "Marinkovic Gómez, Boris"
+    },
+    {
+      "name": "Espinosa Peña, Santiago"
+    },
+    {
+      "name": "Rodríguez Beltrán, Camilo Ignacio"
+    },
+    {
+      "name": "Trigo Vilches, Rodrigo"
+    }
+  ],
+  "keywords": [
+    "virtual reality",
+    "laparoscopic training",
+    "6-DoF",
+    "kinematic analysis",
+    "reproducibility"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}

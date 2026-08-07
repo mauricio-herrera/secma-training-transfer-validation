@@ -1,0 +1,14 @@
+{
+  "observed_participants": 18,
+  "observed_BOX": 9,
+  "observed_SECMA": 9,
+  "raw_csv_files": 67,
+  "unique_trials": 66,
+  "duplicate_files_removed": 1,
+  "gap_threshold_seconds": 0.05,
+  "lowpass_cutoff_hz": 10.0,
+  "primary_inference": "participant-level median PRE/POST + HC3 ANCOVA",
+  "augmentation_use": "secondary posterior-predictive simulation only; never counted as independent observed participants",
+  "augmentation_model": "group-specific Normal-Inverse-Wishart shrinkage model on six-dimensional standardized log PRE/POST outcome vectors; posterior predictive is multivariate Student-t",
+  "seed": 20260807
+}
